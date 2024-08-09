@@ -1,11 +1,9 @@
 <h1 align="center">
-<br>
-<div style="width: 300px; height: 300px; margin: 0 auto; position: relative; overflow: hidden; border-radius: 50%;">
-  <img src="assets/assets.gif" style="width: 100%; height: 100%; object-fit: cover;">
-  <div style="position: absolute; top: 0; left: 0; right: 0; bottom: 0; border: 0px solid #000000; border-radius: 50%;"></div>
-</div>
-<br>
-<strong>Fluent Bit Integration for Wazuh v4.9.0</strong>
+  <br>
+  <img src="assets/assets.gif" width="200" height="200" style="border-radius:50%">
+  <br>
+  <br>
+  Fluent Bit Integration for Wazuh v4.9.0
 </h1>
 
 This repository contains configuration files and scripts for integrating Wazuh with OpenSearch using Fluent Bit. This setup allows you to collect Wazuh alerts and archives, process them, and send them to an OpenSearch instance.
